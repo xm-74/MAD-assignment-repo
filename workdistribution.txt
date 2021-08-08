@@ -1,0 +1,169 @@
+****************************************************************************************
+B.P.College of Computer Studies
+S.V Institute of Computer Studies
+(A Constituent College of Kadi Sarva Vishwavidyalaya)
+BCA Programme
+Semester-V Batch 2019 - 2022
+Division - C
+BCA-504 Mobile Application Development Case Study 
+Group No.: 05_MAD_C_UTIL
+Group Name: Sentients
+****************************************************************************************
+
+
+=> 1.) Definition
+
+Utility applications are designed to help anaylyze, configure, optimize or maintain a computer.
+It is used to support the mobile infrastructure- in contrast to application software, which is aimed at directly performing tasks that benefit ordinary users. 
+
+=> 2.) Concept
+
+Utility software applications are usually shipped alongwith the hardware device, however users can install or modify the existing utility applications to better monitor or tweak their devices.
+
+=> 3.) Features
+Common types of utility applications are :- 1) System utilities 
+						a) Anti-virus
+						b) Clipboard managers
+						c) Computer access control
+						d) Network utilities
+						e) Package managers
+						f) System monitors
+					    2) Storage Device management utilities
+						a)Backup software
+						b)Disk partitioners
+						c)Disk compression
+					    3) File management utilities
+						a) File managers
+						b) Password managers
+				
+
+
+=> 4.) List of Popular Apps
+	a) Find my device by google
+	b) Glasswire
+	c) Google Assistant
+	d) MiXplorer Silver
+	e) ProtonVPN
+	f) Wifi Anaylzer
+
+=>5.) Any app analysis under given criteria
+
+	~a) Name
+		First app:- Bitwarden Password manager 
+		Second app:- Glasswire
+	~b) Developer
+		First app:- Bitwarden Inc.
+		Second app:- SecureMix LLC	
+	~c) Paid/free
+		
+	~d) Size
+		Bitwarden password manager:- 44MB
+		Glasswire :- 8.4 MB
+
+	~e) Launch Date
+		Bitwarden password manager:- 10.8.2016
+		Glasswire:- 21.8.2014 
+
+	~f) Present version
+		Bitwarden password manager:- 2.11.3
+		Glasswire:- 2.3.335   
+
+	~g) Download
+
+	~h) Rating
+		Bitwarden password manager:- 4.6
+		Glasswire:- 4.3
+
+	~i) Features
+
+	~j) Advantages
+
+	~k) Disadvantages
+
+	~l) Additional Remarks
+
+=>6.) Proposed App
+
+	~a) Name
+
+	~b) Developer
+
+	~c) Paid/free
+
+	~d) Size
+
+	~e) Launch Date
+
+	~f) Present version 
+
+	~g) Download
+
+	~h) Rating
+
+	~i) Features
+
+	~j) Advantages
+
+	~k) Disadvantages
+
+	~l) Future enhancements
+	
+
+~~~~~~~~~~~~~~~~Conclusion~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+============================================================================================
+
+
+Group Details 
+
+=> Group No.: MAD_Util_C_05
+=> Group Name.: Sentients
+=> Member Details.:
+
+Roll No.| Enrollment No.:| Complete Name              |	Contribution in project | Allocated Task | Performed task | Remark
+19212 | 				  |Shah Riya Satishbhai       | 
+19213 |					  |Sharma Rushikesh Umashankar|
+19214 |					  |Shrigod Mansi Nareshbhai   |
+19215 |					  |Solanki Utkarsh Jitendrabhai|
+19216 | 				  |Sorathiya Omkumar Natwarlal|
+19217 |					  |Tapendra Patidar			  |
+19218 |					  |Thengri Jyotiben Bhupendrabhai|
+19219 |        			  |Tripathi Ramkrishna Hariom |
+19220 | 				  |Raval Shaileshkumar Dhanjibhai|
+19221 | 				  |Upadhyay Aditya Yashaschandra|
+19222 |  				  |Vaghela Binalba Dilipsinh|
+19223 |                   |Vaghela Krupaba Kiransinh|
+19224 |					  |Vaghela Kuldeepsinh Dilipsinh|
+19225 |                   |Vasiwala Faisalahmad Makbulahmed|
+19380 |					  |Parmar Chirag Chhotabhai|
+19382 |					  |Jiyani Harsh Rajnikant|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
