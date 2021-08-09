@@ -55,7 +55,10 @@ Common types of utility applications are :- 1) System utilities
 		First app:- Bitwarden Inc.
 		Second app:- SecureMix LLC	
 	~c) Paid/free
-		
+		Bitwarden:- Free for core features. Requires to upgrade to 3 USD/ month for additional features.
+		Glasswire:- Provides a free trial after which 39 USD/year for basic pack. 69 USD/year for pro pack and 99 USD/year for elite pack.
+
+
 	~d) Size
 		Bitwarden password manager:- 44MB
 		Glasswire :- 8.4 MB
@@ -75,10 +78,61 @@ Common types of utility applications are :- 1) System utilities
 		Glasswire:- 4.3
 
 	~i) Features
+	
+		Bitwarden :- Allows users to store and share unlimited passwords across unlimited devices. 
+
+		Provides feature to generate strong, unique, and random passwords based on security requirements for websites.
+
+		Offers team and enterprise plans to securely share passwords with colleagues.
+
+		Glasswire :- Allows us to monitor network traffic to and from our mobile or PC in a graphical manner.
+
+		Provides features to block certain apps.
+
+		Allows users to detect spyware, malware of badly behaving apps.
+
+		Helps keep track of data usage also provides alerts before going over data limits.
+
 
 	~j) Advantages
 
+		Bitwarden :- Is open source hence allows third party code audits and independent security tests.
+
+		Passwords are protected with advanced end-to-end encryption and two factor authentication.
+
+		Built in password generator.
+
+		Available in 40 languages.
+
+		Cross platform applications:- Use bitwarden form any browser, mobile device or desktop OS.
+
+		The core features and sharing is free.
+
+		Glasswire:- Shows data in a simple, graphical manner.
+
+		Allows users to interconnect all their devices and monitor all devices.
+
+		Has an integration with Virus total API.
+
+
+
+
+
 	~k) Disadvantages
+
+		Bitwarden :- If you forget your master password then you will not be able to access your password vault.
+
+		Requires to upgrade to paid plan for premium features.
+
+		Does not have live chat or phone support.
+
+		Passwords are stored in the cloud.
+
+		Glasswire: Does not provide a free plan.
+
+		Can be difficult for users who do not have a lot of knowledge of networking.
+
+
 
 	~l) Additional Remarks
 
@@ -124,7 +178,7 @@ Group Details
 
 Roll No.| Enrollment No.:| Complete Name              |	Contribution in project | Allocated Task | Performed task | Remark
 19212 | 				  |Shah Riya Satishbhai       | 
-19213 |					  |Sharma Rushikesh Umashankar|
+19213 |					  |Sharma Rushikesh Umashankar|							| 
 19214 |					  |Shrigod Mansi Nareshbhai   |
 19215 |					  |Solanki Utkarsh Jitendrabhai|
 19216 | 				  |Sorathiya Omkumar Natwarlal|
@@ -132,7 +186,7 @@ Roll No.| Enrollment No.:| Complete Name              |	Contribution in project 
 19218 |					  |Thengri Jyotiben Bhupendrabhai|
 19219 |        			  |Tripathi Ramkrishna Hariom |
 19220 | 				  |Raval Shaileshkumar Dhanjibhai|
-19221 | 				  |Upadhyay Aditya Yashaschandra|
+19221 | 				  |Upadhyay Aditya Yashaschandra|						|  
 19222 |  				  |Vaghela Binalba Dilipsinh|
 19223 |                   |Vaghela Krupaba Kiransinh|
 19224 |					  |Vaghela Kuldeepsinh Dilipsinh|
